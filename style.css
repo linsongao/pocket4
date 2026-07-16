@@ -219,7 +219,7 @@ img { display: block; width: 100%; }
 .future-lines p { color:#5e6260; font:300 12px/1.8 var(--serif); }
 
 .closing { height:100vh; position:relative; display:flex; align-items:center; justify-content:center; overflow:hidden; }
-.closing-image { position:absolute; inset:-8%; background:linear-gradient(rgba(7,7,6,.32),rgba(7,7,6,.72)),url("./pocket4_cover_dualcamera_art.png") center 50%/cover; filter:saturate(.55); }
+.closing-image { position:absolute; inset:-8%; background:linear-gradient(rgba(7,7,6,.32),rgba(7,7,6,.72)),url("./public/pocket4_cover_dualcamera_art.png") center 50%/cover; filter:saturate(.55); }
 .closing-copy { position:relative; text-align:center; z-index:2; text-shadow:0 2px 20px #000; }
 .closing-copy>p { font-size:12px; letter-spacing:.38em; color:#b0ada5; }
 .closing h2 { margin:30px 0 50px; font-size:clamp(38px,5vw,72px); }
